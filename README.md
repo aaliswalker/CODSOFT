@@ -24,11 +24,15 @@ Explore the projects I've worked on during the internship:
 
 - **Project 1: [Titanic Survival Prediction]**
   - The goal was to build a model to predict if someone survived the tianic [1] or not [0].
-  - 
-  - ...
-
-- **Project 2: []**
-  - 
+  - It took the longest time honestly because I had no idea where to start or what to do
+  - Started by using simple linear regression only to find out I'm meant to use logistic regression? A week later
+  - Spent a lot of time google what words mean and what things do
+  - 8/10 experience 
+    
+- **Project 2: [Movie Rating Prediction]**
+  - This time I thought I was gonna use logistic regression, but ended up using Liner Regression T_T
+  - I think I cried multiple times out of stress
+  - This took less time 6/10 experience 
 
 ## Getting Started
 
