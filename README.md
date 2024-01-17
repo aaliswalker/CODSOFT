@@ -41,7 +41,7 @@ To explore the projects and my journey in data science, follow these steps:
 
 2. **Navigate to the Project:**
    ```bash
-   cd CODSOFT/Project1
+   cd CODSOFT/Titanic Task 1
    ```
 
 3. **Explore the Code:**
