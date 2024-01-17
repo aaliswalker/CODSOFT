@@ -36,7 +36,7 @@ To explore the projects and my journey in data science, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/CODSOFT.git
+   git clone https://github.com/aaliswalker/CODSOFT
    ```
 
 2. **Navigate to the Project:**
