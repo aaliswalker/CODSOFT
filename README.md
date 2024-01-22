@@ -27,11 +27,13 @@ Explore the projects I've worked on during the internship:
   - It took the longest time honestly because I had no idea where to start or what to do
   - Started by using simple linear regression only to find out I'm meant to use logistic regression? A week later
   - Spent a lot of time google what words mean and what things do
-  - 8/10 experience 
+  - 8/10 experience
+  - Labled as Task1 with the Titanic dataset
     
 - **Project 2: [Iris Dataset]**
-  - This time I thought I was gonna use logistic regression, but ended up using Linear Regression T_T
-  - This took less time 9/10 experience 
+  - This time I used logistic regression
+  - This took less time 9/10 experience
+  - Labled as TASK3 with the Iris Dataset
 
 ## Getting Started
 
