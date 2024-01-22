@@ -29,10 +29,9 @@ Explore the projects I've worked on during the internship:
   - Spent a lot of time google what words mean and what things do
   - 8/10 experience 
     
-- **Project 2: [Movie Rating Prediction]**
-  - This time I thought I was gonna use logistic regression, but ended up using Liner Regression T_T
-  - I think I cried multiple times out of stress
-  - This took less time 6/10 experience 
+- **Project 2: [Iris Dataset]**
+  - This time I thought I was gonna use logistic regression, but ended up using Linear Regression T_T
+  - This took less time 9/10 experience 
 
 ## Getting Started
 
