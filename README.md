@@ -38,7 +38,7 @@ Explore the projects I've worked on during the internship:
 - **Project 3: [Sales Prediction]**
   - This time I used simple linear regression
   - Using a rather small dataset to make sales forecast
-  - labelled TASK4 with the Sales Prediction Database 
+  - labelled TASK4 with the advertising Database 
 
 ## Getting Started
 
