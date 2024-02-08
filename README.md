@@ -28,12 +28,17 @@ Explore the projects I've worked on during the internship:
   - Started by using simple linear regression only to find out I'm meant to use logistic regression? A week later
   - Spent a lot of time google what words mean and what things do
   - 8/10 experience
-  - Labled as Task1 with the Titanic dataset
+  - Labelled as Task1 with the Titanic dataset
     
 - **Project 2: [Iris Dataset]**
   - This time I used logistic regression
   - This took less time 9/10 experience
-  - Labled as TASK3 with the Iris Dataset
+  - Labelled as TASK3 with the Iris Dataset
+ 
+- **Project 3: [Sales Prediction]**
+  - This time I used simple linear regression
+  - Using a rather small dataset to make sales forecast
+  - labelled TASK4 with the Sales Prediction Database 
 
 ## Getting Started
 
